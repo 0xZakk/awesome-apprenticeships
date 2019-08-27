@@ -5,11 +5,12 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Design](#design)
+- [Development](#development)
+- [Data Science](#data-science)
 
 
-## Section
+## Design
 
 About this section. Optional. Keep this short and focus on the list.
 
@@ -17,9 +18,17 @@ About this section. Optional. Keep this short and focus on the list.
 - [List item](http://example.com)
 
 
-## Another Section
+## Development
 
-### Subsection
+About this section. Optional. Keep this short and focus on the list.
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Data Science
+
+About this section. Optional. Keep this short and focus on the list.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
