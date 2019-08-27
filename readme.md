@@ -12,7 +12,7 @@
 
 ## Design
 
-About this section. Optional. Keep this short and focus on the list.
+Apprenticeships in visual and user-experience design.
 
 - [thoughtbot](https://thoughtbot.com/playbook/our-company/apprenticeship)
 - [Adobe](https://www.adobe.com/corporate-responsibility/education/digital-academy.html)
@@ -23,7 +23,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Development
 
-About this section. Optional. Keep this short and focus on the list.
+Apprenticeships in development and software engineering.
 
 - [thoughtbot](https://thoughtbot.com/playbook/our-company/apprenticeship)
 - [Gaslight](https://teamgaslight.com/careers/developer-apprenticeship)
@@ -43,7 +43,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Data Science
 
-About this section. Optional. Keep this short and focus on the list.
+Data science apprenticeships.
 
 - [AirBnB](https://www.airbnb.com/press/news/a-new-career-awaits-with-airbnb-connect-aimed-at-increasing-diversity-in-tech)
 - [IBM](https://www.ibm.com/us-en/employment/newcollar/apprenticeships.html)
