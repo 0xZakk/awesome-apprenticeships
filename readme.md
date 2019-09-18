@@ -39,6 +39,8 @@ Apprenticeships in development and software engineering.
 - [Detroit Labs](https://www.detroitlabs.com/apprenticeships)
 - [IBM](https://www.ibm.com/us-en/employment/newcollar/apprenticeships.html)
 - [Twitter](https://blog.twitter.com/en_us/topics/company/2019/engapprenticeshipprogram.html)
+- [Amazon (General)](https://www.amazon.jobs/en/landing_pages/apprentices)
+- [Amazon (Military)](https://www.amazon.jobs/en/landing_pages/mil-apprentice)
 
 
 ## Data Science
